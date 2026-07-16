@@ -127,7 +127,7 @@ export default function Page() {
           <div>
             <div className="text-xs uppercase tracking-[0.3em] text-neutral-500 mb-2">Seismic Community</div>
             <h1 className="font-display text-4xl sm:text-5xl leading-none">
-              MAGNITUDE <span style={{ color: magColor(highest) }}>ALBUM</span>
+              SEISMIC <span style={{ color: magColor(highest) }}>MEMBER ALBUM</span>
             </h1>
             <p className="text-sm text-neutral-400 mt-3 max-w-md">
               {live

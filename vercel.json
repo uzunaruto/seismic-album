@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/(.*)", "destination": "https://seismic-member-album.vercel.app/$1", "permanent": true }
+  ]
+}
